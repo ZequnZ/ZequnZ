@@ -37,4 +37,4 @@ Feel Free to [email](mailto:zequn.zhou007@gmail.com) or [connect](https://www.li
  - 亚马逊云服务基础设施： S3, EC2.  
  - 数据库: MySQL.  
 
-欢迎通过[邮箱]((mailto:zequn.zhou007@gmail.com))和[Linkedin](https://www.linkedin.com/in/zequn-zhou/)与我联系，期待有认识或者合作的机会！  
+欢迎通过[邮箱](mailto:zequn.zhou007@gmail.com)和[Linkedin](https://www.linkedin.com/in/zequn-zhou/)与我联系，期待有认识或者合作的机会！  
