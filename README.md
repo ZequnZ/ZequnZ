@@ -7,14 +7,15 @@ I am very interested in artificial intelligence, machine learning, computer and 
 The future trend of technological development will be excellent, but meanwhile I firmly believe that how to better **use** technology to create greater value and bring benefits to our earth, to all human beings should be taken into consideration while making progress. Hope that I will have the opportunity to participate in it contribute my own value some day in the future. If you have relevant opportunities, please contact me through the methods mentioned below. Appreciated!
 
 Tech stacks:
- - Programming/Scripying languages: Python, C++, Java, bash.  
+ - Programming/Scripying languages: Python, C++, Java, Matlab, bash.  
  - DS/ML/visualization related packages: Pandas, Numpy, Jupyter-lab, Scikit-learn, XGBoost, Matplotlib, Seaborn, Plotly and more...   
  - Deep Learning Frameworks: TensorFlow, Keras.  
  - Monitoring systems/tools: Datadog, Kibana.  
  - Version control tools: Github, Gitlab.  
  - Development environment setup tools: Docker, Docker Compose.  
- - AWS infrastructure: S3, EC2.   
- - Databases: MySQL.  
+ - CI/CD tools: Jenkins, Github Actions, Travis CI, Kubernetes.  
+ - AWS infrastructure: S3, SageMaker, Redshift, EC2.   
+ - Databases: MySQL, PostgresSQL.  
 
 Feel Free to [email](mailto:zequn.zhou007@gmail.com) or connect me on [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/zequn-zhou/) and hope we can have a chance to collaborate together.
 
@@ -29,13 +30,14 @@ Feel Free to [email](mailto:zequn.zhou007@gmail.com) or connect me on [![linkedi
 作为个体，我们很难控制这个世界的走向，但万幸的是我们能做出选择（或者在争取选择权的路上）。希望放眼今后，我能多做出几个让我不后悔的选择，同样祝愿看到这里的你，能够勇敢地选择你喜欢（哪怕只是一时喜欢）的决定。
 
 技术栈：
- - 编程语言：Python, C++, Java, bash.  
+ - 编程语言：Python, C++, Java, Matlab, bash.  
  - 数据科学/机器学习/视觉化相关的库： Pandas, Numpy, Jupyter-lab, Scikit-learn, XGBoost, Matplotlib, Seaborn, Plotly 以及更多...  
  - 深度学习框架：TensorFlow, Keras.  
  - 程序监控系统/工具： Datadog, Kibana.  
  - 版本控制工具： Github, Gitlab.  
  - 开发环境设置工具： Docker, Docker Compose.  
- - 亚马逊云服务基础设施： S3, EC2.  
- - 数据库: MySQL.  
+ - 持续集成/交付工具: Jenkins, Github Actions, Travis CI, Kubernetes. 
+ - 亚马逊云服务基础设施： S3, SageMaker, Redshift, EC2.    
+ - 数据库: MySQL, PostgresSQL. 
 
 欢迎通过[邮箱](mailto:zequn.zhou007@gmail.com)和[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/zequn-zhou/)与我联系，期待有认识或者合作的机会！  
