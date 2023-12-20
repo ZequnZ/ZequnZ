@@ -1,22 +1,26 @@
 ### Hi there 👋
 
-I have been working in the field of DS/ML for 3.5 years and am currently based in Berlin, Germany.
+I have been working in the field of DS/ML for 3.5 years and am currently based in Espoo, Finland。
 
-I have hands-on experience on the end-to-end DS project lifecycle, from problem identification, experimenting, creating MVP, writing production-ready code to deployment. Building models is important to solving problems, but demonstrating impact and creating value are the final goal.
+I have hands-on experience on the end-to-end DS project lifecycle, from problem identification, data analyzing and experimenting, creating MVP, writing production-ready code to deployment. Building models is important to solving problems, but demonstrating impact and creating value are the final goal.
 
 To achieve that architecture needs to be designed carefully and multiple tools need to be used to ensure a successful delivery. It is challenging and I am excited to deal with any incoming challenges and get my hands on them. Therefore I am really interested in the area of **MLOps**.
 
-Reflecting on my work, I have made many contributions, either independently or in collaboration with different engineers (e.g. data engineer, backend engineer, Android engineer, SRE). In my previous company N26, I have designed and developed various projects, like fraudster detection, transaction risk rating and initial customer risk score. As a result, the financial loss caused by crime or fraud and operational cost are reduced(by 40%) and the services are more robust. Additionally, I was highly involved in a face verification project which was the first deep learning project of the company. I participated in many meetings to know the goal and create the roadmap and afterwards led the project from the technical side.
+Reflecting on my work, I have made many contributions, either independently or in collaboration with different engineers (e.g. data engineer, backend engineer, Android engineer, SRE). In my previous company N26, I have designed and developed various projects around FCP(financial crime prevention), including fraudster detection, transaction risk rating and initial customer risk score. As a result, the financial loss caused by crime or fraud and operational cost are reduced(by 40%) and the services are more robust.Besides getting satisfying performance from modeling, I have contributed a lot to MLOps, like setting up pipelines and monitoring systems, to ensure excellent practices in scalability, reliability and maintainability. Additionally, I was highly involved in a face verification project which was the first deep learning project of the company. I participated in many meetings to know the goal and create the roadmap and afterwards led the project from the technical side.
+
 
 Tech stacks:
  - Programming/Scripying languages: Python, C++, Java, Matlab, bash.  
  - DS/ML/visualization related packages: Pandas, Numpy, Jupyter-lab, Scikit-learn, XGBoost, Matplotlib, Seaborn, Plotly and more...   
  - Deep Learning Frameworks: TensorFlow, PyTorch.  
  - Monitoring systems/tools: Datadog, Kibana.  
- - Version control tools: Github, Gitlab.  
- - Development environment setup tools: Docker, Docker Compose.  
+ - Version control tools: Github, Gitlab.    
+ - ML lifecycle management tool: MLflow.    
+ - Containerization tool: Docker, Docker Compose.  
  - CI/CD tools: Jenkins, Github Actions, Travis CI, Kubernetes.  
- - AWS infrastructure: S3, SageMaker, Redshift, EC2.   
+ - AWS infrastructure: S3, SageMaker, Redshift, EC2, ElastiCache.  
+ - Infrastructure management tool: Terraform.  
+ - BI tool: Metabase.  
  - Databases: MySQL, PostgresSQL.  
 
 Feel Free to [email](mailto:zequn.zhou007@gmail.com) or connect me on [![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/zequn-zhou/) and hope we can have a chance to collaborate together.
@@ -24,7 +28,7 @@ Feel Free to [email](mailto:zequn.zhou007@gmail.com) or connect me on [![linkedi
 
 ### 嘿 👋
 
-我在DS/ML领域拥有三年半的工作经验，现居德国柏林。
+我在DS/ML领域拥有三年半的工作经验，现居芬兰艾斯堡。
 
 我对人工智能，机器学习，计算机等方向的技术课题很感兴趣，正朝着更深的技术/工程积累迈进。我在金融科技（FinTech）领域拥有参与多个不同主题的数据科学（例如，人脸比对, 用户评分，交易分类等等）项目经验， 并负责数据科学项目端到端的设立（从最初的问题定义，到探索分析，到代码实在，并在满意其效果之后将其部署上线）。
 
@@ -38,12 +42,15 @@ Feel Free to [email](mailto:zequn.zhou007@gmail.com) or connect me on [![linkedi
 技术栈：
  - 编程语言：Python, C++, Java, Matlab, bash.  
  - 数据科学/机器学习/视觉化相关的库： Pandas, Numpy, Jupyter-lab, Scikit-learn, XGBoost, Matplotlib, Seaborn, Plotly 以及更多...  
- - 深度学习框架：TensorFlow, Keras.  
+ - 深度学习框架：TensorFlow, PyTorch.  
  - 程序监控系统/工具： Datadog, Kibana.  
  - 版本控制工具： Github, Gitlab.  
- - 开发环境设置工具： Docker, Docker Compose.  
- - 持续集成/交付工具: Jenkins, Github Actions, Travis CI, Kubernetes. 
- - 亚马逊云服务基础设施： S3, SageMaker, Redshift, EC2.    
+ - 机器学习生命周期管理工具： MLflow.  
+ - 容器化/开发环境设置工具： Docker, Docker Compose.  
+ - 持续集成/交付工具: Jenkins, Github Actions, Travis CI, Kubernetes.  
+ - 亚马逊云服务基础设施： S3, SageMaker, Redshift, EC2, ElastiCache.  
+ - 云基础设施管理工具：Terraform.  
+ - 商业智能分析工具： Metabase.  
  - 数据库: MySQL, PostgresSQL. 
 
 欢迎通过[邮箱](mailto:zequn.zhou007@gmail.com)和[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/zequn-zhou/)与我联系，期待有认识或者合作的机会！  
