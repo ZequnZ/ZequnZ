@@ -53,4 +53,7 @@ Feel Free to [email](mailto:zequn.zhou007@gmail.com) or connect me on [![linkedi
  - 商业智能分析工具： Metabase.  
  - 数据库: MySQL, PostgresSQL. 
 
-欢迎通过[邮箱](mailto:zequn.zhou007@gmail.com)和[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/zequn-zhou/)与我联系，期待有认识或者合作的机会！  
+欢迎通过[邮箱](mailto:zequn.zhou007@gmail.com)和[![linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin)](https://www.linkedin.com/in/zequn-zhou/)与我联系，期待有认识或者合作的机会！
+
+![](https://komarev.com/ghpvc/?username=ZequnZ)
+
