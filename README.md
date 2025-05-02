@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have been working in the field of DS/ML for 4.5 years and am currently based in Espoo, Finland。
+I have been working in the field of DS/ML for ~5 years and am currently based in Espoo, Finland。
 
 I have hands-on experience on the end-to-end DS project lifecycle, from problem identification, data analyzing and experimenting, creating MVP, writing production-ready code to deployment. Building models is important to solving problems, but demonstrating impact and creating value are the final goal.
 
@@ -28,7 +28,7 @@ Feel Free to [email](mailto:zequn.zhou007@gmail.com) or connect me on [![linkedi
 
 ### 嘿 👋
 
-我在DS/ML领域拥有四年半的工作经验，现居芬兰艾斯堡。
+我在DS/ML领域拥有五年的工作经验，现居芬兰艾斯堡。
 
 我对人工智能，机器学习，计算机等方向的技术课题很感兴趣，正朝着更深的技术/工程积累迈进。我在金融科技（FinTech）领域拥有参与多个不同主题的数据科学（例如，人脸比对, 用户评分，交易分类等等）项目经验， 并负责数据科学项目端到端的设立（从最初的问题定义，到探索分析，到代码实在，并在满意其效果之后将其部署上线）。
 
