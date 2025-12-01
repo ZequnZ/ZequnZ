@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I have 5+ years of experience in designing, building and deploying production AI empowered systems, currently based in Helsinki metropolitan area, Finland.\
+I have 5+ years of experience in designing, building and deploying production AI empowered systems, currently based in Helsinki metropolitan area, Finland.
 
 Passionate about full-stack development and committed to delivering with impactful results, using  GenAI/LLM tools and learning to master them to accelerate implementation and unlock potentials for both work and life.
 
